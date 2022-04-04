@@ -1,0 +1,3 @@
+[submodule "Assets/Libraries"]
+	path = Assets/Libraries
+	url = git@github.com:Mazyod/PhoenixSharp.git
